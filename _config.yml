@@ -1,11 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Hobart City Council Meeting Summaries
+description: by Darcy Murphy
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://DarcyMur.github.io/HCCMeetingSummaries
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
 plugins:
   - jekyll-feed
